@@ -1,0 +1,133 @@
+@import '~normalize.css/normalize.css';
+@import '~reset-css/less/reset';
+
+@import (css)
+  url('https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed:100,200,300,400,500,600,700,800,900&subset=cyrillic,cyrillic-ext,latin-ext');
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 8px;
+}
+@media (max-width: 767px) {
+  html {
+    font-size: 7px;
+  }
+}
+body {
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
+.wrapper {
+  position: relative;
+}
+.main {
+  height: 100vh;
+  width: 100vw;
+  max-width: 100%;
+}
+@media (max-height: 400px) {
+  .main {
+    height: auto;
+    width: 100vw;
+    padding-top: 15rem;
+    padding-bottom: 15rem;
+  }
+}
+.main_type_centered-small {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .container {
+    width: 56.8rem;
+    max-width: 90%;
+  }
+}
+.main_type_centered-big {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .container {
+    width: 90rem;
+    max-width: 90%;
+  }
+}
+.main_type_centered-huge-about {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .container {
+    width: 120rem;
+    max-width: 90%;
+  }
+}
+.main_type_centered-huge-post {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  padding-top: 20rem;
+  padding-bottom: 20rem;
+  min-height: 80vh;
+  .container {
+    width: 180rem;
+    max-width: 90%;
+  }
+}
+@media (max-width: 767px) {
+  .main_type_centered-huge-about {
+    height: auto;
+    padding-top: 20rem;
+    padding-bottom: 20rem;
+  }
+}
+@media (max-height: 900px) {
+  .main_type_centered-huge-about {
+    height: auto;
+    padding-top: 20rem;
+    padding-bottom: 20rem;
+  }
+}
+.main_background_404 {
+  background-image: url('images/bg-404.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+@media (max-width: 767px) {
+  .main_background_404 {
+    background-image: url('images/bg-404-m-X.jpg');
+  }
+}
+@media (max-width: 479px) {
+  .main_background_404 {
+    background-image: url('images/bg-404-m.jpg');
+  }
+}
+.main_background_default {
+  background-image: url('images/bg-default-image.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+@media (max-width: 479px) {
+  .main_background_default {
+    background-image: url('images/bg-default-image-m.jpg');
+  }
+}
+.main_background_gym {
+  background-image: url('images/bg-gym-image.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.main_background_thai {
+  background-image: url('images/bg-thai-image.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+@media (max-width: 479px) {
+  .main_background_default {
+    background-image: url('images/bg-gym-image.jpg');
+  }
+}

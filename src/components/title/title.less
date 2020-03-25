@@ -1,0 +1,46 @@
+.title {
+  &.title_color_white {
+    color: #ffffff;
+  }
+  &.title_color_red {
+    color: #dd222d;
+  }
+  &.title_size_middle {
+    font-size: 3.6rem;
+  }
+  &.title_size_large {
+    font-size: 4.8rem;
+  }
+  &.title_size_big-large {
+    font-size: 5.6rem;
+  }
+  &.title_size_huge {
+    font-size: 11rem;
+  }
+  &.title_weight_normal {
+    font-weight: 400;
+  }
+  &.title_letter-spacing-big {
+    letter-spacing: 0.12em;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .title {
+    &.title_size_middle {
+      font-size: 3rem;
+    }
+    &.title_size_huge {
+      font-size: 9rem;
+    }
+  }
+}
+@media (max-width: 767px) {
+  .title {
+    &.title_size_middle {
+      font-size: 2.4rem;
+    }
+    &.title_size_huge {
+      font-size: 6rem;
+    }
+  }
+}

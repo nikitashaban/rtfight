@@ -1,0 +1,33 @@
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  &.form_style_horizontal {
+    display: flex;
+    flex-direction: row;
+    .form__item {
+      margin: 0 1rem;
+    }
+  }
+}
+.form__send {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .form {
+    &.form_style_horizontal {
+      flex-direction: column;
+      .form__item {
+        margin: 1rem 0;
+      }
+      .button {
+        margin-top: 2em;
+      }
+    }
+  }
+}

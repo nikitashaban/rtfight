@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{jUj4:function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),l=a.n(t),c=a("I/Ru"),r=a("dE6H"),u=a("5Vy0");n.default=function(){return l.a.createElement(c.a,{title:"404 page",mainType:"centered-small",mainBackground:"404"},l.a.createElement(r.a,null,l.a.createElement(u.a,null,"Скоро вы сможете войти в личный кабинет, заполнить анкету и стать частью грандиозного проекта. Пожалуйста, подождите. Осталось совсем немного!")))}}}]);
+//# sourceMappingURL=component---src-pages-parking-page-js-71b6e4f7c44f97820f4f.js.map

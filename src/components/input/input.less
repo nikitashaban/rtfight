@@ -1,0 +1,29 @@
+.input {
+  display: flex;
+  align-items: center;
+  .input__element {
+    outline: none;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  &.input_styling_bordered {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    .input__element {
+      font-size: 2rem;
+      font-weight: 500;
+      color: #ffffff;
+      border: 0;
+      background: transparent;
+      padding: 0.6em 1.1em;
+      position: relative;
+      border-bottom: 0.163rem solid #ffffff;
+      box-sizing: border-box;
+      &::placeholder {
+        font-weight: 500;
+        color: rgba(255, 255, 255, 0.38);
+      }
+    }
+  }
+}

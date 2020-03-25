@@ -1,0 +1,37 @@
+.blog-pagination {
+  font-size: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  margin-top: 2rem;
+  .button {
+    font-size: 3rem;
+    color: #484849;
+    svg {
+      color: #484849;
+    }
+    &:hover {
+      svg {
+        color: #dd222d;
+      }
+    }
+  }
+  .button-prev {
+    margin-right: 6rem;
+  }
+  .button-next {
+    margin-left: 6rem;
+  }
+}
+.blog-pagination__text {
+  font-size: 2em;
+  color: #484849;
+  display: flex;
+  .blog-pagination__number {
+    margin: 0 0.5em;
+    &.current {
+      color: #ffffff;
+    }
+  }
+}

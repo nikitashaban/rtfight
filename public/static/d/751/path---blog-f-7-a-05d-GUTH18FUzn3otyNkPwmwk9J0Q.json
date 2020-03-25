@@ -1,0 +1,284 @@
+{
+  "data": {
+    "allWordpressPost": {
+      "edges": [
+        {
+          "node": {
+            "id": "7c291627-ae56-5846-af91-d9c6d9bfbadf",
+            "title": "Бетонные кулаки Джека Демпси",
+            "excerpt": "<p>Каждый человек, который интересуется боксом знает имя легендарного чемпиона прошлых лет Джека Демпси. Но мало кто знает, что делал Демпси для того, чтобы у него стали бетонные кулаки.</p>\n",
+            "slug": "betonnye-kulaki-dzheka-dempsi",
+            "categories": [{ "name": "Общее" }],
+            "featured_media": {
+              "localFile": {
+                "childImageSharp": {
+                  "fixed": {
+                    "base64": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABzHVooCA//8QAGRAAAwADAAAAAAAAAAAAAAAAAAECEBEy/9oACAEBAAEFAtJTDRfSKx//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAABBQAAAAAAAAAAAAAAAAABABEgITH/2gAIAQEABj8CouVkf//EABkQAQEBAQEBAAAAAAAAAAAAAAEAETEhUf/aAAgBAQABPyF2R+EYfRIVlxJ2e3//2gAMAwEAAgADAAAAEEQv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAEDAQE/EF0QIL//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EFjpT//EABgQAQEBAQEAAAAAAAAAAAAAAAEAESFB/9oACAEBAAE/EG3kRHsb4U9es1LSbCDFOTdX/9k=",
+                    "width": 500,
+                    "height": 300,
+                    "src": "/static/47ea6f804456ad865cd7e6490ff83190/97dd9/Betonnye-kulaki-Dzheka-Dempsi.jpg",
+                    "srcSet": "/static/47ea6f804456ad865cd7e6490ff83190/97dd9/Betonnye-kulaki-Dzheka-Dempsi.jpg 1x,\n/static/47ea6f804456ad865cd7e6490ff83190/f8580/Betonnye-kulaki-Dzheka-Dempsi.jpg 1.5x,\n/static/47ea6f804456ad865cd7e6490ff83190/b67c4/Betonnye-kulaki-Dzheka-Dempsi.jpg 2x,\n/static/47ea6f804456ad865cd7e6490ff83190/562d6/Betonnye-kulaki-Dzheka-Dempsi.jpg 3x",
+                    "srcWebp": "/static/47ea6f804456ad865cd7e6490ff83190/b4c79/Betonnye-kulaki-Dzheka-Dempsi.webp",
+                    "srcSetWebp": "/static/47ea6f804456ad865cd7e6490ff83190/b4c79/Betonnye-kulaki-Dzheka-Dempsi.webp 1x,\n/static/47ea6f804456ad865cd7e6490ff83190/33e5d/Betonnye-kulaki-Dzheka-Dempsi.webp 1.5x,\n/static/47ea6f804456ad865cd7e6490ff83190/2fa04/Betonnye-kulaki-Dzheka-Dempsi.webp 2x,\n/static/47ea6f804456ad865cd7e6490ff83190/89ba9/Betonnye-kulaki-Dzheka-Dempsi.webp 3x"
+                  }
+                }
+              }
+            },
+            "date": "09.09.2019"
+          }
+        },
+        {
+          "node": {
+            "id": "3f15f429-95b9-5a82-b586-47484c31e28e",
+            "title": "Действующие профессионалы с Олимпийским золотом",
+            "excerpt": "<p>Каждый боксёр стартует свою карьеру с любительского ринга, где самым значимым титулом является победа на Олимпийских играх, но настоящая вершина бокса – стать абсолютным чемпионом мира на профессионально ринге.</p>\n",
+            "slug": "dejstvujushhie-professionaly-s-olimpijskim-zolotom",
+            "categories": [{ "name": "Общее" }],
+            "featured_media": {
+              "localFile": {
+                "childImageSharp": {
+                  "fixed": {
+                    "base64": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAb/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABjspPuOeNwn//xAAZEAEBAQEBAQAAAAAAAAAAAAABAgMAITH/2gAIAQEAAQUCnN7UlupZcfCgZ+d//8QAFREBAQAAAAAAAAAAAAAAAAAAABL/2gAIAQMBAT8Btb//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEv/aAAgBAgEBPwGEP//EABsQAAICAwEAAAAAAAAAAAAAAAARAQIQEjFx/9oACAEBAAY/Aq2nkldVGPBIR//EABoQAQADAQEBAAAAAAAAAAAAAAEAESExQWH/2gAIAQEAAT8hoF3w9YCbzXhKQkoOXwRIjU7pdH2f/9oADAMBAAIAAwAAABDg3//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFx/9oACAEDAQE/EGqqDB//xAAWEQEBAQAAAAAAAAAAAAAAAAABAHH/2gAIAQIBAT8QG27/xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhMVFhcf/aAAgBAQABPxAB1WA2B3DalezVp06+/kv/ANLE0TyRCGCx6HKuLFq8S6jTbhDU/9k=",
+                    "width": 500,
+                    "height": 300,
+                    "src": "/static/8d963ce330f683b7ce82ebca19d99b23/97dd9/Dejstvujushhie-professionaly-s-Olimpijskim-zolotom-min.jpg",
+                    "srcSet": "/static/8d963ce330f683b7ce82ebca19d99b23/97dd9/Dejstvujushhie-professionaly-s-Olimpijskim-zolotom-min.jpg 1x,\n/static/8d963ce330f683b7ce82ebca19d99b23/f8580/Dejstvujushhie-professionaly-s-Olimpijskim-zolotom-min.jpg 1.5x,\n/static/8d963ce330f683b7ce82ebca19d99b23/b67c4/Dejstvujushhie-professionaly-s-Olimpijskim-zolotom-min.jpg 2x,\n/static/8d963ce330f683b7ce82ebca19d99b23/562d6/Dejstvujushhie-professionaly-s-Olimpijskim-zolotom-min.jpg 3x",
+                    "srcWebp": "/static/8d963ce330f683b7ce82ebca19d99b23/b4c79/Dejstvujushhie-professionaly-s-Olimpijskim-zolotom-min.webp",
+                    "srcSetWebp": "/static/8d963ce330f683b7ce82ebca19d99b23/b4c79/Dejstvujushhie-professionaly-s-Olimpijskim-zolotom-min.webp 1x,\n/static/8d963ce330f683b7ce82ebca19d99b23/33e5d/Dejstvujushhie-professionaly-s-Olimpijskim-zolotom-min.webp 1.5x,\n/static/8d963ce330f683b7ce82ebca19d99b23/2fa04/Dejstvujushhie-professionaly-s-Olimpijskim-zolotom-min.webp 2x,\n/static/8d963ce330f683b7ce82ebca19d99b23/89ba9/Dejstvujushhie-professionaly-s-Olimpijskim-zolotom-min.webp 3x"
+                  }
+                }
+              }
+            },
+            "date": "12.09.2019"
+          }
+        },
+        {
+          "node": {
+            "id": "e3996b7b-b14e-5fc5-9943-effdbf42bad4",
+            "title": "Реалии современного профессионального бокса",
+            "excerpt": "<p>В настоящее время бокс переживает далеко не лучшие времена. Уже давно не новость для любого любителя этого джентельменского вида единоборств, что в этом спорте сильнейшие могут драться с оппонентами даже не из топ-100.</p>\n",
+            "slug": "realii-sovremennogo-professionalnogo-boksa",
+            "categories": [{ "name": "Общее" }],
+            "featured_media": {
+              "localFile": {
+                "childImageSharp": {
+                  "fixed": {
+                    "base64": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAAB5jcPGIoC/8QAGxABAAICAwAAAAAAAAAAAAAAAQACAxMEERL/2gAIAQEAAQUC1hVDz3SUWYgePlqbP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/Aar/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAbEAACAQUAAAAAAAAAAAAAAAAAASECEjFhgv/aAAgBAQAGPwLayXJJE0jOxwf/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMWGBkbH/2gAIAQEAAT8hvHLRD8Q1ruLKjnmZW91DFm6PkKYKK+T/2gAMAwEAAgADAAAAEMv/AP/EABYRAQEBAAAAAAAAAAAAAAAAABEAAf/aAAgBAwEBPxDMJK//xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QhX//xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhQYGRobH/2gAIAQEAAT8QBEMYTRfuIDjKmuzY7DDqlWVhim0fZjCaknKbTzhNEATiM//Z",
+                    "width": 500,
+                    "height": 300,
+                    "src": "/static/1c27b24c793a116098443644ab9a5ae1/97dd9/Realii-sovremennogo-professionalnogo-boksa-min.jpg",
+                    "srcSet": "/static/1c27b24c793a116098443644ab9a5ae1/97dd9/Realii-sovremennogo-professionalnogo-boksa-min.jpg 1x,\n/static/1c27b24c793a116098443644ab9a5ae1/f8580/Realii-sovremennogo-professionalnogo-boksa-min.jpg 1.5x,\n/static/1c27b24c793a116098443644ab9a5ae1/b67c4/Realii-sovremennogo-professionalnogo-boksa-min.jpg 2x,\n/static/1c27b24c793a116098443644ab9a5ae1/562d6/Realii-sovremennogo-professionalnogo-boksa-min.jpg 3x",
+                    "srcWebp": "/static/1c27b24c793a116098443644ab9a5ae1/b4c79/Realii-sovremennogo-professionalnogo-boksa-min.webp",
+                    "srcSetWebp": "/static/1c27b24c793a116098443644ab9a5ae1/b4c79/Realii-sovremennogo-professionalnogo-boksa-min.webp 1x,\n/static/1c27b24c793a116098443644ab9a5ae1/33e5d/Realii-sovremennogo-professionalnogo-boksa-min.webp 1.5x,\n/static/1c27b24c793a116098443644ab9a5ae1/2fa04/Realii-sovremennogo-professionalnogo-boksa-min.webp 2x,\n/static/1c27b24c793a116098443644ab9a5ae1/89ba9/Realii-sovremennogo-professionalnogo-boksa-min.webp 3x"
+                  }
+                }
+              }
+            },
+            "date": "12.09.2019"
+          }
+        },
+        {
+          "node": {
+            "id": "799d16d4-30d8-5ede-9ca2-c42364b7aee2",
+            "title": "Сможет ли Александр Усик стать лидером хэвивейта?",
+            "excerpt": "<p>Сможет ли Александр Усик стать лидером хэвивейта? Об этом мы можем узнать уже совсем скоро. </p>\n",
+            "slug": "smozhet-li-aleksandr-usik-stat-liderom-hevivejta",
+            "categories": [{ "name": "Общее" }],
+            "featured_media": {
+              "localFile": {
+                "childImageSharp": {
+                  "fixed": {
+                    "base64": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABqtLaZYmN/8QAHBAAAgEFAQAAAAAAAAAAAAAAAQIAAxITIjIz/9oACAEBAAEFArkIK752ieFbmf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AUf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwGq/8QAHhAAAgEDBQAAAAAAAAAAAAAAAAECEBEiMTJBUXL/2gAIAQEABj8C2JpcksLLs1GS80//xAAdEAEAAgICAwAAAAAAAAAAAAABABEhQRAxUaHR/9oACAEBAAE/IaIoRfhD1O6XQ6mANME9SNQXHxx//9oADAMBAAIAAwAAABB0z//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxCRh//EABcRAAMBAAAAAAAAAAAAAAAAAAABETH/2gAIAQIBAT8Qb4Wf/8QAHhABAQACAgIDAAAAAAAAAAAAAREAITFREHGBocH/2gAIAQEAAT8QJU6HS5N9bx6IMBTlVfU+cBvAYHAdZ9t+4hRVourvfH//2Q==",
+                    "width": 500,
+                    "height": 300,
+                    "src": "/static/23044f5c195555de6ab0c31853684fe3/97dd9/Smozhet-li-Aleksandr-Usik-stat-liderom-hevivejta-min.jpg",
+                    "srcSet": "/static/23044f5c195555de6ab0c31853684fe3/97dd9/Smozhet-li-Aleksandr-Usik-stat-liderom-hevivejta-min.jpg 1x,\n/static/23044f5c195555de6ab0c31853684fe3/f8580/Smozhet-li-Aleksandr-Usik-stat-liderom-hevivejta-min.jpg 1.5x,\n/static/23044f5c195555de6ab0c31853684fe3/b67c4/Smozhet-li-Aleksandr-Usik-stat-liderom-hevivejta-min.jpg 2x,\n/static/23044f5c195555de6ab0c31853684fe3/562d6/Smozhet-li-Aleksandr-Usik-stat-liderom-hevivejta-min.jpg 3x",
+                    "srcWebp": "/static/23044f5c195555de6ab0c31853684fe3/b4c79/Smozhet-li-Aleksandr-Usik-stat-liderom-hevivejta-min.webp",
+                    "srcSetWebp": "/static/23044f5c195555de6ab0c31853684fe3/b4c79/Smozhet-li-Aleksandr-Usik-stat-liderom-hevivejta-min.webp 1x,\n/static/23044f5c195555de6ab0c31853684fe3/33e5d/Smozhet-li-Aleksandr-Usik-stat-liderom-hevivejta-min.webp 1.5x,\n/static/23044f5c195555de6ab0c31853684fe3/2fa04/Smozhet-li-Aleksandr-Usik-stat-liderom-hevivejta-min.webp 2x,\n/static/23044f5c195555de6ab0c31853684fe3/89ba9/Smozhet-li-Aleksandr-Usik-stat-liderom-hevivejta-min.webp 3x"
+                  }
+                }
+              }
+            },
+            "date": "12.09.2019"
+          }
+        },
+        {
+          "node": {
+            "id": "5b3be31b-3e87-59c2-ba69-07b586d11b00",
+            "title": "Судьбы легенд бокса после окончания профессиональной карьеры",
+            "excerpt": "<p>Самый главный невосполнимый ресурс в жизни каждого человека – это время. Оно ограничено и у каждого профессионального боксёра. Когда приходит пора заканчивать карьеру не многие спортсмены могут представить себя в другой роли, но всё же времена меняются для каждого из них.</p>\n",
+            "slug": "sudby-legend-boksa-posle-okonchaniya-professionalnoj-karery",
+            "categories": [{ "name": "Общее" }],
+            "featured_media": {
+              "localFile": {
+                "childImageSharp": {
+                  "fixed": {
+                    "base64": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQb/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABTdmdGMA0n//EABkQAAMBAQEAAAAAAAAAAAAAAAECAxIRAP/aAAgBAQABBQKXhpgc9m/GyBOh23//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAABBAMBAAAAAAAAAAAAAAAAAQIRIRIxQYH/2gAIAQEABj8Cht+ENTWzpSRwUyiz/8QAHBAAAQUAAwAAAAAAAAAAAAAAAQARITFBUWGR/9oACAEBAAE/IXahqEc9IwaVkPlNpmB0o8mO1VIboXX2V//aAAwDAQACAAMAAAAQf8//xAAWEQEBAQAAAAAAAAAAAAAAAAARAAH/2gAIAQMBAT8QTI2//8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAB/9oACAECAQE/EB2cv//EABwQAQEAAwEAAwAAAAAAAAAAAAERACExcWGBkf/aAAgBAQABPxB1FXbuOazDCYLP3GGfKp7nZbgJ7q+zGdFYJamnqZMKO5dCl+5n/9k=",
+                    "width": 500,
+                    "height": 300,
+                    "src": "/static/abccd177e624a9a29981bfcd31bc83db/97dd9/Sudby-legend-boksa-posle-okonchaniya-professionalnoj-karery-min.jpg",
+                    "srcSet": "/static/abccd177e624a9a29981bfcd31bc83db/97dd9/Sudby-legend-boksa-posle-okonchaniya-professionalnoj-karery-min.jpg 1x,\n/static/abccd177e624a9a29981bfcd31bc83db/f8580/Sudby-legend-boksa-posle-okonchaniya-professionalnoj-karery-min.jpg 1.5x,\n/static/abccd177e624a9a29981bfcd31bc83db/b67c4/Sudby-legend-boksa-posle-okonchaniya-professionalnoj-karery-min.jpg 2x,\n/static/abccd177e624a9a29981bfcd31bc83db/562d6/Sudby-legend-boksa-posle-okonchaniya-professionalnoj-karery-min.jpg 3x",
+                    "srcWebp": "/static/abccd177e624a9a29981bfcd31bc83db/b4c79/Sudby-legend-boksa-posle-okonchaniya-professionalnoj-karery-min.webp",
+                    "srcSetWebp": "/static/abccd177e624a9a29981bfcd31bc83db/b4c79/Sudby-legend-boksa-posle-okonchaniya-professionalnoj-karery-min.webp 1x,\n/static/abccd177e624a9a29981bfcd31bc83db/33e5d/Sudby-legend-boksa-posle-okonchaniya-professionalnoj-karery-min.webp 1.5x,\n/static/abccd177e624a9a29981bfcd31bc83db/2fa04/Sudby-legend-boksa-posle-okonchaniya-professionalnoj-karery-min.webp 2x,\n/static/abccd177e624a9a29981bfcd31bc83db/89ba9/Sudby-legend-boksa-posle-okonchaniya-professionalnoj-karery-min.webp 3x"
+                  }
+                }
+              }
+            },
+            "date": "12.09.2019"
+          }
+        },
+        {
+          "node": {
+            "id": "d30b885c-6928-59b5-968a-cb79c7f9ae33",
+            "title": "Термины и понятия профессионального бокса",
+            "excerpt": "<p>В мире профессионального бокса существует множество терминов и понятий. С некоторыми из них мы предлагаем ознакомиться Вам в этой статье.</p>\n",
+            "slug": "terminy-i-ponyatiya-professionalnogo-boksa",
+            "categories": [{ "name": "Общее" }],
+            "featured_media": {
+              "localFile": {
+                "childImageSharp": {
+                  "fixed": {
+                    "base64": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFAQT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABjb3TVUYT/8QAHBAAAgICAwAAAAAAAAAAAAAAAQIAEgMRISIx/9oACAEBAAEFAkrBWH3SnEvLMe3/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIhMRAREv/aAAgBAQAGPwKS8a5SGiFH/8QAGhABAQEBAQEBAAAAAAAAAAAAAREAIVExQf/aAAgBAQABPyERWr5+a1rngbiMWn3BmkCHWbo43//aAAwDAQACAAMAAAAQ8w//xAAXEQADAQAAAAAAAAAAAAAAAAABEBFR/9oACAEDAQE/EKMX/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Qh//EABwQAQADAAIDAAAAAAAAAAAAAAEAESFBUXGB0f/aAAgBAQABPxArJBoGPMCLpNHu41kjXJzGIAgNDrdzB0KqFiYKAX9n/9k=",
+                    "width": 500,
+                    "height": 300,
+                    "src": "/static/29efc0982927c20edf3ffcefd8aef421/97dd9/Terminy-i-ponyatiya-professionalnogo-boksa.jpg",
+                    "srcSet": "/static/29efc0982927c20edf3ffcefd8aef421/97dd9/Terminy-i-ponyatiya-professionalnogo-boksa.jpg 1x,\n/static/29efc0982927c20edf3ffcefd8aef421/f8580/Terminy-i-ponyatiya-professionalnogo-boksa.jpg 1.5x,\n/static/29efc0982927c20edf3ffcefd8aef421/b67c4/Terminy-i-ponyatiya-professionalnogo-boksa.jpg 2x,\n/static/29efc0982927c20edf3ffcefd8aef421/562d6/Terminy-i-ponyatiya-professionalnogo-boksa.jpg 3x",
+                    "srcWebp": "/static/29efc0982927c20edf3ffcefd8aef421/b4c79/Terminy-i-ponyatiya-professionalnogo-boksa.webp",
+                    "srcSetWebp": "/static/29efc0982927c20edf3ffcefd8aef421/b4c79/Terminy-i-ponyatiya-professionalnogo-boksa.webp 1x,\n/static/29efc0982927c20edf3ffcefd8aef421/33e5d/Terminy-i-ponyatiya-professionalnogo-boksa.webp 1.5x,\n/static/29efc0982927c20edf3ffcefd8aef421/2fa04/Terminy-i-ponyatiya-professionalnogo-boksa.webp 2x,\n/static/29efc0982927c20edf3ffcefd8aef421/89ba9/Terminy-i-ponyatiya-professionalnogo-boksa.webp 3x"
+                  }
+                }
+              }
+            },
+            "date": "12.09.2019"
+          }
+        },
+        {
+          "node": {
+            "id": "d9313358-36b9-5acf-bdfd-5b8c50e85ebe",
+            "title": "Топ действующих менеджеров в профи-боксе",
+            "excerpt": "<p>Никакой боксёр не смог бы добиться больших высот без опытного и профессионального менеджера, который обеспечивает своего подопечного всем необходимым для того, чтобы он мог полноценно подготовиться к бою и организовывает ему поединки на различных файткардах.</p>\n",
+            "slug": "top-dejstvujushhih-menedzherov-v-profi-bokse",
+            "categories": [{ "name": "Общее" }],
+            "featured_media": {
+              "localFile": {
+                "childImageSharp": {
+                  "fixed": {
+                    "base64": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFFlYZzQCv/xAAbEAACAgMBAAAAAAAAAAAAAAABAgADERITI//aAAgBAQABBQJwI48yhlvQyt94tYx//8QAFhEBAQEAAAAAAAAAAAAAAAAAABEi/9oACAEDAQE/Aay//8QAFhEBAQEAAAAAAAAAAAAAAAAAABEh/9oACAECAQE/AY1//8QAHRAAAQMFAQAAAAAAAAAAAAAAAAECMRESEyFBof/aAAgBAQAGPwJGu8IoaLl6Y3QSf//EABoQAQADAQEBAAAAAAAAAAAAAAEAESFBMWH/2gAIAQEAAT8hyBzSKqXDvtxT2RVOAMDkfc4x7BHfyf/aAAwDAQACAAMAAAAQVC//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8QAZOr/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAh/9oACAECAQE/EFbP/8QAHBABAAIDAQEBAAAAAAAAAAAAAQARITFBYVFx/9oACAEBAAE/EMu6y4VdB38ioUaFO3NYiVHrBQCrNYTZ6Fwrl/IQYPHJ/9k=",
+                    "width": 500,
+                    "height": 300,
+                    "src": "/static/d0e888146f9c477ce672990e94d16b77/97dd9/Top-dejstvujushhih-menedzherov-v-profi-bokse.jpg",
+                    "srcSet": "/static/d0e888146f9c477ce672990e94d16b77/97dd9/Top-dejstvujushhih-menedzherov-v-profi-bokse.jpg 1x,\n/static/d0e888146f9c477ce672990e94d16b77/f8580/Top-dejstvujushhih-menedzherov-v-profi-bokse.jpg 1.5x,\n/static/d0e888146f9c477ce672990e94d16b77/b67c4/Top-dejstvujushhih-menedzherov-v-profi-bokse.jpg 2x,\n/static/d0e888146f9c477ce672990e94d16b77/562d6/Top-dejstvujushhih-menedzherov-v-profi-bokse.jpg 3x",
+                    "srcWebp": "/static/d0e888146f9c477ce672990e94d16b77/b4c79/Top-dejstvujushhih-menedzherov-v-profi-bokse.webp",
+                    "srcSetWebp": "/static/d0e888146f9c477ce672990e94d16b77/b4c79/Top-dejstvujushhih-menedzherov-v-profi-bokse.webp 1x,\n/static/d0e888146f9c477ce672990e94d16b77/33e5d/Top-dejstvujushhih-menedzherov-v-profi-bokse.webp 1.5x,\n/static/d0e888146f9c477ce672990e94d16b77/2fa04/Top-dejstvujushhih-menedzherov-v-profi-bokse.webp 2x,\n/static/d0e888146f9c477ce672990e94d16b77/89ba9/Top-dejstvujushhih-menedzherov-v-profi-bokse.webp 3x"
+                  }
+                }
+              }
+            },
+            "date": "12.09.2019"
+          }
+        },
+        {
+          "node": {
+            "id": "4557688d-ba5a-58d4-b5bf-3e5b8cba0faf",
+            "title": "Топовые действующие тренеры в профессиональном боксе",
+            "excerpt": "<p>Представляем вашему вниманию топ действующих тренеров в профессиональном боксе.</p>\n",
+            "slug": "topovye-dejstvujushhie-trenery-v-professionalnom-bokse",
+            "categories": [{ "name": "Общее" }],
+            "featured_media": {
+              "localFile": {
+                "childImageSharp": {
+                  "fixed": {
+                    "base64": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABzHpkbsKAof/EABoQAQADAAMAAAAAAAAAAAAAAAEAAgMREiL/2gAIAQEAAQUCxStivWzqzI5V9M//xAAYEQACAwAAAAAAAAAAAAAAAAAAAQIREv/aAAgBAwEBPwHKUSj/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAIAQIBAT8Buq//xAAaEAACAgMAAAAAAAAAAAAAAAAAAREhEEFh/9oACAEBAAY/Arsc6KEukY//xAAbEAEAAgIDAAAAAAAAAAAAAAABABEhcTFBwf/aAAgBAQABPyFKHaAVqKx8JaxDcs7sEW+PDnUaM//aAAwDAQACAAMAAAAQU9//xAAYEQEBAAMAAAAAAAAAAAAAAAABABEh0f/aAAgBAwEBPxAzy77Iv//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEWH/2gAIAQIBAT8QU8Wr/8QAGxAAAgIDAQAAAAAAAAAAAAAAAREAITFBUXH/2gAIAQEAAT8QBZUiuFwc9jonAWRwByVs4gFANnYnpUBvdHdygSY6XlftZiW2w5//2Q==",
+                    "width": 500,
+                    "height": 300,
+                    "src": "/static/8ed92953039d287bfde751f95252ca13/97dd9/Topovye-dejstvujushhie-trenery-v-professionalnom-bokse.jpg",
+                    "srcSet": "/static/8ed92953039d287bfde751f95252ca13/97dd9/Topovye-dejstvujushhie-trenery-v-professionalnom-bokse.jpg 1x,\n/static/8ed92953039d287bfde751f95252ca13/f8580/Topovye-dejstvujushhie-trenery-v-professionalnom-bokse.jpg 1.5x,\n/static/8ed92953039d287bfde751f95252ca13/b67c4/Topovye-dejstvujushhie-trenery-v-professionalnom-bokse.jpg 2x,\n/static/8ed92953039d287bfde751f95252ca13/562d6/Topovye-dejstvujushhie-trenery-v-professionalnom-bokse.jpg 3x",
+                    "srcWebp": "/static/8ed92953039d287bfde751f95252ca13/b4c79/Topovye-dejstvujushhie-trenery-v-professionalnom-bokse.webp",
+                    "srcSetWebp": "/static/8ed92953039d287bfde751f95252ca13/b4c79/Topovye-dejstvujushhie-trenery-v-professionalnom-bokse.webp 1x,\n/static/8ed92953039d287bfde751f95252ca13/33e5d/Topovye-dejstvujushhie-trenery-v-professionalnom-bokse.webp 1.5x,\n/static/8ed92953039d287bfde751f95252ca13/2fa04/Topovye-dejstvujushhie-trenery-v-professionalnom-bokse.webp 2x,\n/static/8ed92953039d287bfde751f95252ca13/89ba9/Topovye-dejstvujushhie-trenery-v-professionalnom-bokse.webp 3x"
+                  }
+                }
+              }
+            },
+            "date": "12.09.2019"
+          }
+        },
+        {
+          "node": {
+            "id": "af4d4f68-c0ea-50c6-be49-4fcae99dc5ec",
+            "title": "Топовые промоутерские компании",
+            "excerpt": "<p>Представляем вашему вниманию топовые промоутерские компании мира профессионального бокса, которые активно продвигают своих бойцов на сегодняшний день.</p>\n",
+            "slug": "topovye-promouterskie-kompanii",
+            "categories": [{ "name": "Общее" }],
+            "featured_media": {
+              "localFile": {
+                "childImageSharp": {
+                  "fixed": {
+                    "base64": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAZSxyYgf/8QAHBAAAQMFAAAAAAAAAAAAAAAAAAECEQMSEyEy/9oACAEBAAEFArpH8lJ21cpkg//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAQADAQAAAAAAAAAAAAAAAAABEHEx/9oACAEBAAY/Ak1iccf/xAAcEAEAAgMAAwAAAAAAAAAAAAABABEhMUFRcaH/2gAIAQEAAT8hxHuA01eWNNXhDsq10igeQzl8s//aAAwDAQACAAMAAAAQ0w//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAeEAEAAgEEAwAAAAAAAAAAAAABABEhMUFRYXGBkf/aAAgBAQABPxAA8gaLx5IOjnDbuTWwQIpf2Vvvld+ojnNruNK+uoIlC1aqHyf/2Q==",
+                    "width": 500,
+                    "height": 300,
+                    "src": "/static/8ef95721aad836f0224fad541ccbae8f/97dd9/Topovye-promouterskie-kompanii.jpg",
+                    "srcSet": "/static/8ef95721aad836f0224fad541ccbae8f/97dd9/Topovye-promouterskie-kompanii.jpg 1x,\n/static/8ef95721aad836f0224fad541ccbae8f/f8580/Topovye-promouterskie-kompanii.jpg 1.5x,\n/static/8ef95721aad836f0224fad541ccbae8f/b67c4/Topovye-promouterskie-kompanii.jpg 2x,\n/static/8ef95721aad836f0224fad541ccbae8f/562d6/Topovye-promouterskie-kompanii.jpg 3x",
+                    "srcWebp": "/static/8ef95721aad836f0224fad541ccbae8f/b4c79/Topovye-promouterskie-kompanii.webp",
+                    "srcSetWebp": "/static/8ef95721aad836f0224fad541ccbae8f/b4c79/Topovye-promouterskie-kompanii.webp 1x,\n/static/8ef95721aad836f0224fad541ccbae8f/33e5d/Topovye-promouterskie-kompanii.webp 1.5x,\n/static/8ef95721aad836f0224fad541ccbae8f/2fa04/Topovye-promouterskie-kompanii.webp 2x,\n/static/8ef95721aad836f0224fad541ccbae8f/89ba9/Topovye-promouterskie-kompanii.webp 3x"
+                  }
+                }
+              }
+            },
+            "date": "12.09.2019"
+          }
+        },
+        {
+          "node": {
+            "id": "4a07cb97-c0d2-5b9f-9314-1bf6c80a11bd",
+            "title": "Топ-стран по количеству чемпионов в профессиональном боксе",
+            "excerpt": "<p>Представляем вашему вниманию страны, которые имеют на данный момент наибольшее количество чемпионов в профессиональном боксе.</p>\n",
+            "slug": "top-stran-po-kolichestvu-chempionov-v-professionalnom-bokse",
+            "categories": [{ "name": "Общее" }],
+            "featured_media": {
+              "localFile": {
+                "childImageSharp": {
+                  "fixed": {
+                    "base64": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQT/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQT/2gAMAwEAAhADEAAAAWLoTK+HCBp//8QAGRAAAwADAAAAAAAAAAAAAAAAAQIDACEx/9oACAEBAAEFAgzNOlyqm5Jr2uhn/8QAGREAAgMBAAAAAAAAAAAAAAAAAAIBAxMx/9oACAEDAQE/AVrh+GCH/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAESETH/2gAIAQIBAT8BrOopn//EABwQAAEEAwEAAAAAAAAAAAAAAAEAAhFBEBIhMv/aAAgBAQAGPwI6egoF2jKa2nHuf//EABsQAQACAwEBAAAAAAAAAAAAAAEAIRExURBB/9oACAEBAAE/IUTcc5oBiLZjT72LWG+SoAKANwgAUHn/2gAMAwEAAgADAAAAELff/8QAGREAAgMBAAAAAAAAAAAAAAAAESEAAWHB/9oACAEDAQE/EF1gRqfZhP/EABgRAQADAQAAAAAAAAAAAAAAAAEAETHB/9oACAECAQE/EAm7N5GH/8QAHhABAAICAQUAAAAAAAAAAAAAAREhADEQQVFhgZH/2gAIAQEAAT8QYNZ4IBXyMBqWuCGCB5oPbhpyaBodsIxNCDp3hjigRrj/2Q==",
+                    "width": 500,
+                    "height": 300,
+                    "src": "/static/e9b64c16ecc7ca12d366cc6d67fc3746/97dd9/Top-stran-po-kolichestvu-chempionov-v-professionalnom-bokse-min.jpg",
+                    "srcSet": "/static/e9b64c16ecc7ca12d366cc6d67fc3746/97dd9/Top-stran-po-kolichestvu-chempionov-v-professionalnom-bokse-min.jpg 1x,\n/static/e9b64c16ecc7ca12d366cc6d67fc3746/f8580/Top-stran-po-kolichestvu-chempionov-v-professionalnom-bokse-min.jpg 1.5x,\n/static/e9b64c16ecc7ca12d366cc6d67fc3746/b67c4/Top-stran-po-kolichestvu-chempionov-v-professionalnom-bokse-min.jpg 2x,\n/static/e9b64c16ecc7ca12d366cc6d67fc3746/562d6/Top-stran-po-kolichestvu-chempionov-v-professionalnom-bokse-min.jpg 3x",
+                    "srcWebp": "/static/e9b64c16ecc7ca12d366cc6d67fc3746/b4c79/Top-stran-po-kolichestvu-chempionov-v-professionalnom-bokse-min.webp",
+                    "srcSetWebp": "/static/e9b64c16ecc7ca12d366cc6d67fc3746/b4c79/Top-stran-po-kolichestvu-chempionov-v-professionalnom-bokse-min.webp 1x,\n/static/e9b64c16ecc7ca12d366cc6d67fc3746/33e5d/Top-stran-po-kolichestvu-chempionov-v-professionalnom-bokse-min.webp 1.5x,\n/static/e9b64c16ecc7ca12d366cc6d67fc3746/2fa04/Top-stran-po-kolichestvu-chempionov-v-professionalnom-bokse-min.webp 2x,\n/static/e9b64c16ecc7ca12d366cc6d67fc3746/89ba9/Top-stran-po-kolichestvu-chempionov-v-professionalnom-bokse-min.webp 3x"
+                  }
+                }
+              }
+            },
+            "date": "12.09.2019"
+          }
+        },
+        {
+          "node": {
+            "id": "e749edb1-fac6-5f50-a557-beacf7365d0b",
+            "title": "Эксклюзивное интервью с первым тренером Александра Усика",
+            "excerpt": "<p>Представляем вашему вниманию эксклюзивное интервью первого тренера абсолютного чемпиона мира в 1-м тяжёлом весе украинца Александра Усика, Сергея Юрьевича Лапина, с которым удалось побеседовать порталу RTFight.com накануне дебюта Усика в супертяжёлом дивизионе, где ему 12 октября в Чикаго (США) предстоит провести бой против не имеющего поражений американца Тайрона Спонга.</p>\n",
+            "slug": "ekskljuzivnoe-intervju-s-pervym-trenerom-aleksandra-usika",
+            "categories": [{ "name": "Общее" }],
+            "featured_media": {
+              "localFile": {
+                "childImageSharp": {
+                  "fixed": {
+                    "base64": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAE/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAATdZrhnkJf/EABoQAQEAAgMAAAAAAAAAAAAAAAIBABEDEhP/2gAIAQEAAQUCNW3sqcsMNzoaPIa//8QAFREBAQAAAAAAAAAAAAAAAAAAABL/2gAIAQMBAT8BW//EABYRAQEBAAAAAAAAAAAAAAAAAAAREv/aAAgBAgEBPwGMv//EAB0QAAICAQUAAAAAAAAAAAAAAAABAhEhEDEyQVH/2gAIAQEABj8Cvo2q/DNLSMmsnFH/xAAbEAEBAQEAAwEAAAAAAAAAAAABEQAhUWFxkf/aAAgBAQABPyFE7XPp40UIUI+6ECey5Bl5umF24UX8t//aAAwDAQACAAMAAAAQ5C//xAAXEQEBAQEAAAAAAAAAAAAAAAABABFh/9oACAEDAQE/EBwnm//EABYRAQEBAAAAAAAAAAAAAAAAAAEQIf/aAAgBAgEBPxDSR//EABwQAQEAAwEAAwAAAAAAAAAAAAERACExQVFxkf/aAAgBAQABPxAadRUoHj85kpIhKT7hb8Ya75ET4rGdHCoUOi8zU9bS9ZXF1rJvH//Z",
+                    "width": 500,
+                    "height": 300,
+                    "src": "/static/e291f431c2f783b3c2374066c3db640e/97dd9/Ekskljuzivnoe-intervju-s-pervym-trenerom-Aleksandra-Usika-min-1.jpg",
+                    "srcSet": "/static/e291f431c2f783b3c2374066c3db640e/97dd9/Ekskljuzivnoe-intervju-s-pervym-trenerom-Aleksandra-Usika-min-1.jpg 1x,\n/static/e291f431c2f783b3c2374066c3db640e/f8580/Ekskljuzivnoe-intervju-s-pervym-trenerom-Aleksandra-Usika-min-1.jpg 1.5x,\n/static/e291f431c2f783b3c2374066c3db640e/b67c4/Ekskljuzivnoe-intervju-s-pervym-trenerom-Aleksandra-Usika-min-1.jpg 2x,\n/static/e291f431c2f783b3c2374066c3db640e/562d6/Ekskljuzivnoe-intervju-s-pervym-trenerom-Aleksandra-Usika-min-1.jpg 3x",
+                    "srcWebp": "/static/e291f431c2f783b3c2374066c3db640e/b4c79/Ekskljuzivnoe-intervju-s-pervym-trenerom-Aleksandra-Usika-min-1.webp",
+                    "srcSetWebp": "/static/e291f431c2f783b3c2374066c3db640e/b4c79/Ekskljuzivnoe-intervju-s-pervym-trenerom-Aleksandra-Usika-min-1.webp 1x,\n/static/e291f431c2f783b3c2374066c3db640e/33e5d/Ekskljuzivnoe-intervju-s-pervym-trenerom-Aleksandra-Usika-min-1.webp 1.5x,\n/static/e291f431c2f783b3c2374066c3db640e/2fa04/Ekskljuzivnoe-intervju-s-pervym-trenerom-Aleksandra-Usika-min-1.webp 2x,\n/static/e291f431c2f783b3c2374066c3db640e/89ba9/Ekskljuzivnoe-intervju-s-pervym-trenerom-Aleksandra-Usika-min-1.webp 3x"
+                  }
+                }
+              }
+            },
+            "date": "18.09.2019"
+          }
+        }
+      ]
+    }
+  },
+  "pageContext": { "isCreatedByStatefulCreatePages": true }
+}
